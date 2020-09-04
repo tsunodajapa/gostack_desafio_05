@@ -19,9 +19,6 @@ Uma aplicação simples com cadastro de transações de entrada e saída.
 - EsLint, Editor Config, e Prettier no projeto;
 - Tratar erros com Throw, try, cacth.
 
-#### Este projeto tem como objetivo criar áudios através da API da IBM
-Foi utilizado arquitetura SOLID no back-end
-
 ## Requisitos de instalação
 
 - npm >= 6.0.0
